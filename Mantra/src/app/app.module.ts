@@ -3,10 +3,14 @@ import { BrowserModule } from '@angular/platform-browser';
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
+import { TopNavbarComponent } from './Mantra/top-navbar/top-navbar.component';
+import { MainNavbarComponent } from './Mantra/main-navbar/main-navbar.component';
 
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
+    TopNavbarComponent,
+    MainNavbarComponent
   ],
   imports: [
     BrowserModule,

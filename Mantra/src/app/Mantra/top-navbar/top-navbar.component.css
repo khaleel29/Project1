@@ -1,0 +1,85 @@
+.topnav{
+    background-color: brown;
+    padding: 15px;
+    width: 100%;
+    position: fixed;
+    left: 0;
+    top: 0;
+
+}
+.box{
+    padding: 0px;
+    box-shadow: 0px 0px 3px black;
+    
+}
+.auth{
+    width: 130px;
+    height: 33px;
+    background-color: white;
+    margin-left: 150px;
+    margin-top: 15px;
+}
+.auth a{
+    font-size: 15px;
+    color: black;
+    text-decoration: none;
+    
+}
+
+.edit{
+    margin-top: -27px;
+    margin-left: 128px; 
+    
+}
+.cart{
+    width: 40px;
+    height: 31px;
+    background-color: white;
+    margin-top: 15px;
+}
+.cartcount{
+    font-size: 15px;
+    text-decoration: none;
+    margin-left: 7px;
+    
+}
+.cartedit{
+    margin-left: 38px;
+    
+}
+
+.manav{
+    background-color: #404040;
+    padding: 0px;
+    width: 100%;
+    position: fixed;
+    margin-top:90px;
+    height: 36px;
+    
+}
+.nedit a:hover{
+    background-color: black;
+    color: white;
+
+}
+.nedit{
+    height: 36px;
+}
+
+.currency{
+    color: white;
+    font-size: 15px;
+    margin-top: 5px;
+    
+}
+.select{
+   background-color: red;
+   color: white;
+   font-size: 10px;
+   margin-left: 45px;
+   margin-top: 9px;
+}
+
+.myAnchorNav{
+    border-right: solid grey 2px;
+}
